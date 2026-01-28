@@ -30,7 +30,7 @@ main {
 }
 
 .hero {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.25), rgba(0, 0, 0, 0.5)), url("https://cdn.glitch.global/26868fbe-1af0-4689-92f8-b1c3ff159816/Yucca.jpeg?v=1664150251051");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.25), rgba(0, 0, 0, 0.5)), url("https://t4.ftcdn.net/jpg/04/44/49/23/360_F_444492306_Io9wiqmA1ohGj8PmCQFeg4jCEBQsbjM3.jpg");
   position: relative;
   height: 75vh;
   width: 100vw;
